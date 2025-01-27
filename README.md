@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RahulPant14
-- 👀 I’m interested in Web Development/FrontEnd
+- 👀 I’m interested in Web Development/FrontEnd/ ReactJS
 - 🌱 I’m currently learning FrontEnd with React.
 - 💞️ I’m looking to collaborate on Web Development and Frontend
 - 📫 How to reach me - rohanpant80@gmail.com
